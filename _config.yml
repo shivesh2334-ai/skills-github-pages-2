@@ -1,0 +1,6 @@
+<body> 
+     <h1>Modifying HTML with JavaScript</h1>  
+
+     <p id="para1">JavaScript is powerful!</p> 
+     <p id="para2">It can manipulate HTML.</p>  
+</body>
